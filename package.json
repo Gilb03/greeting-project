@@ -1,0 +1,29 @@
+{
+  "name": "greeting-project",
+  "version": "1.0.0",
+  "description": "greeting project",
+  "main": "./lib/greet.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "greet": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gilb03/greeting-project.git"
+  },
+  "author": "Gil B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gilb03/greeting-project/issues"
+  },
+  "homepage": "https://github.com/Gilb03/greeting-project#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "lodash": "^4.17.15"
+  }
+}
