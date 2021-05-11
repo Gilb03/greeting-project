@@ -24,6 +24,6 @@
   "homepage": "https://github.com/Gilb03/greeting-project#readme",
   "dependencies": {
     "colors": "^1.4.0",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
